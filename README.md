@@ -2,9 +2,24 @@
 
 Online resources and tips to help you land a new exciting career.
 
-### "Real Artist Ship" - Steve Jobs
-If you do one thing, ship a product / project.
+> __"Real artist's ship."__
+  > &mdash; _Steve Jobs_
+
+If you do one thing, even just one proper thing: complete a product / project (need not be even programming related).
 The experience you take from this is invaluable.
+
+> __"If you can dream--and not make dreams your master;
+   If you can think&mdash; and not make thoughts your aim;
+   ...
+>  If you can talk with crowds and keep your virtue,
+   Or walk with kings&mdash; nor lose the common touch;
+   ...
+   You'll be a *man* my son.__
+   > &mdash; - Rudyard Kipling, *If*
+
+Dream, but keep it real; adapt. Evolve. Grow. 
+Be humble. Pay no heed to fools.
+Bow down to no man. Not even the king.
 
 
 ### Get Involved
